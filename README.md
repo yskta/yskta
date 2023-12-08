@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoshifumi Kitagawa</h1>
+<h1 align="center">Hi 👋, I'm YK</h1>
 
 - 🔭 I’m currently working on **TrustHub**
 
