@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **NestJS, React**
 
-- 📝 I regularly write articles on [https://zenn.dev/kitakita3110](https://zenn.dev/kitakita3110)
-
 - 📫 How to reach me **kitapo3110@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
