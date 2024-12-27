@@ -3,7 +3,7 @@
 ## About Me
 👨‍🎓 I'm a master's student at Kyoto University
 
-🌱 I'm conducting research on applying PINNs to production process.
+🌱 I'm researching Physics-Informed Neural Networks (PINNs) for manufacturing processes.
 
 🧑‍💻 I work as a software engineer.
 
