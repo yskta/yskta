@@ -8,7 +8,7 @@
 🧑‍💻 I work as a software engineer.
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,react,next,python,go,graphql,docker,gcp,pytorch" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,react,next,python,go,graphql,docker,gcp,pytorch" />
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yskta&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
