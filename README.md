@@ -7,6 +7,10 @@
 
 🧑‍💻 I work as a software engineer.
 
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,react,next,python,fastapi,go,docker,gcp,pytorch" />
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=yskta&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=yskta&theme=juicyfresh&no-bg=true" />
 
