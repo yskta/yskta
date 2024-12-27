@@ -1,3 +1,12 @@
+# Hi there 👋
+
+## About Me
+👨‍🎓 I'm a master's student at Kyoto University
+
+🌱 I'm conducting research on applying PINNs to production process.
+
+🧑‍💻 I work as a software engineer.
+
 <img src="https://github-readme-stats.vercel.app/api?username=yskta&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=yskta&theme=juicyfresh&no-bg=true" />
 
