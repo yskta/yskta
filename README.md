@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-👨‍🎓 I'm a master's student at Kyoto University
+👨‍🎓 I'm a master's student at Kyoto University.
 
 🌱 I'm researching Physics-Informed Neural Networks (PINNs) for manufacturing processes.
 
