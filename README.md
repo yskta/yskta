@@ -4,9 +4,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,react,next,python,go,graphql,docker,gcp,pytorch" />
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yskta&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=yskta&theme=juicyfresh&no-bg=true" />
-
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
